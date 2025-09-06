@@ -3,7 +3,6 @@
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Shell](https://img.shields.io/badge/shell-bash-green.svg)
 ![Platform](https://img.shields.io/badge/platform-linux%20%7C%20unix-lightgrey.svg)
-![Version](https://img.shields.io/badge/version-1.0-orange.svg)
 
 A simple Bash script to display basic server performance statistics and system information.
 
