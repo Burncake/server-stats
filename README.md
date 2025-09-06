@@ -37,12 +37,12 @@ Inspired by [roadmap.sh](https://roadmap.sh/projects/server-stats)
 
 ### Options
 
-| Option | Alias | Description |
-|--------|-------|-------------|
-| `-s, --stats, --status` | | Show performance stats (CPU, memory, disk, top processes) |
-| `-n, --net, --network` | | Show network interfaces (name & IP) |
-| `-e, --ex, --extra` | | Show extra info (OS, uptime, load, users) |
-| `-h, --help` | | Show help message |
+| Option | Description |
+|--------|-------------|
+| `-s, --stats, --status` | Show performance stats (CPU, memory, disk, top processes) |
+| `-n, --net, --network` | Show network interfaces (name & IP) |
+| `-e, --ex, --extra` | Show extra info (OS, uptime, load, users) |
+| `-h, --help` | Show help message |
 
 ## Sample Output
 
