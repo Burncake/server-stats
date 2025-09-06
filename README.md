@@ -7,6 +7,8 @@
 
 A simple Bash script to display basic server performance statistics and system information.
 
+Inspired by [roadmap.sh](https://roadmap.sh/projects/server-stats)
+
 ## Features
 
 - **Performance Stats**: CPU usage, memory usage, disk usage, and top processes
